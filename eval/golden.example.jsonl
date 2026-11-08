@@ -1,0 +1,3 @@
+{"question": "What is the default retention period for logs?", "expected_file": "runbook.md", "expected_pages": [], "answerable": true}
+{"question": "Which section covers rollback procedures?", "expected_file": "runbook.md", "expected_pages": [], "answerable": true}
+{"question": "What is the CEO's favourite colour?", "expected_file": "", "expected_pages": [], "answerable": false}
